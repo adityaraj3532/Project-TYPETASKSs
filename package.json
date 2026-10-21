@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/adityaraj3532/Project-TYPETASKSs/issues"
   },
-  "homepage": "https://github.com/adityaraj3532/Project-TYPETASKSs#readme"
+  "homepage": "https://github.com/adityaraj3532/Project-TYPETASKSs#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
 }
