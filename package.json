@@ -1,0 +1,21 @@
+{
+  "name": "project-typetaskss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityaraj3532/Project-TYPETASKSs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adityaraj3532/Project-TYPETASKSs/issues"
+  },
+  "homepage": "https://github.com/adityaraj3532/Project-TYPETASKSs#readme"
+}
